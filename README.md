@@ -45,10 +45,7 @@ O repositório consolida todos os artefatos necessários listados na estrutura d
   * `reviews_localidade_gold_v1`: Agregações métricas por estado/cidade.
   * `sazonalidade_gold`: Insights sobre volume de reviews baseados no dia da semana.
 * **Dashboards (Camada de Apresentação visual)**:
-  * `Alertas de Possíveis Inconsistências.lvdash.json`
-  * `dash_Marketing Restaurantes_V2.lvdash.json`
-  * `Dashboard Yelp - Reviews por Dia e Categoria_V2.lvdash`
-  * `Top users da plataforma.lvdash.json`
+  * 
 
 ## 5. Instruções para Instalação, Configuração e Execução
 1. **Configuração do Ambiente:**
